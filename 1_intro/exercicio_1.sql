@@ -1,0 +1,1 @@
+CREATE DATABASE exercicio_1;
